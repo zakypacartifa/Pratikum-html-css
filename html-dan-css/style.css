@@ -154,3 +154,19 @@ ul > li > a {
   margin: 20px 0;
   box-shadow: 0 0 5px #aaa;
 }
+
+.section-1 {
+  margin: 20px 0;
+}
+
+.akhir {
+  background-color: #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+.foter {
+  background-color: #ddd;
+  padding: 10px;
+  text-align: center;
+}
