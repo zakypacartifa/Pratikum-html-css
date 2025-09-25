@@ -147,3 +147,10 @@ ul > li > a {
   transform: scale(1.05);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
 }
+
+.section-1 {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin: 20px 0;
+  box-shadow: 0 0 5px #aaa;
+}
