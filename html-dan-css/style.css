@@ -87,3 +87,19 @@ ul > li > a {
   height: 100%; */
   flex-direction: column;
 }
+
+.header-about > h4 {
+  color: white;
+  font-size: 2rem;
+  margin: 0px;
+  padding: 0px;
+}
+
+.header-about > p {
+  color: white;
+  margin: 0px;
+  pad: 0px;
+  font-size: 15px;
+  max-width: 600px;
+  line-height: 1.5;
+}
