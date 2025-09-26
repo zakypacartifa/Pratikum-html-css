@@ -4,9 +4,7 @@
 
 **Pratikum: Pratikum Semantik HTML dan CSS**
 
-![A logo with a star and a wreath AI-generated content may be
-incorrect.](media/image1.png){width="2.8194444444444446in"
-height="2.8194444444444446in"}
+![Logo] images/undiknas.png
 
 Oleh:
 
