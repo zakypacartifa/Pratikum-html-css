@@ -4,8 +4,6 @@
 
 **Pratikum: Pratikum Semantik HTML dan CSS**
 
-![Logo] images/undiknas.png
-
 Oleh:
 
 Renald Kevin Azzaky (42430029)
@@ -85,7 +83,7 @@ Renald Kevin Azzaky (42430029)
 
 **Index.html**
 
-![](media/image2.png)
+![Struktur HTML](../images/struktur-html.png)
 
 - **Deklarasi dokumen** → Menandakan bahwa dokumen menggunakan standar
   HTML5.
@@ -120,7 +118,7 @@ Renald Kevin Azzaky (42430029)
 - **Penutup head** → Mengakhiri bagian head sebelum masuk ke body
   halaman.
 
-![](media/image3.png)**Navigation Bar.html**
+![](../images/navbar-html.png)**Navigation Bar.html**
 
 > .
 
@@ -155,7 +153,7 @@ Renald Kevin Azzaky (42430029)
 
 **Navigation.css**
 
-![](media/image4.png)
+![](../images/navbar-css.png)
 
 - **wrapper**\
   Mengatur lebar kontainer sebesar 1024px, memposisikannya ke tengah
@@ -197,7 +195,7 @@ Renald Kevin Azzaky (42430029)
 
 **Section.html**
 
-![](media/image5.png)
+![](<../images/section-html%20(2).png>)
 
 - **Section dengan class \"about\"**\
   Menandai sebuah bagian khusus di halaman yang berisi informasi
@@ -227,7 +225,7 @@ Renald Kevin Azzaky (42430029)
 
 > **Section.css**
 >
-> ![](media/image6.png)
+> ![](../images/sction-css.png)
 
 - **Class .about**\
   Digunakan untuk mengatur tampilan latar belakang pada section
@@ -261,7 +259,7 @@ Renald Kevin Azzaky (42430029)
 
 **Footer.html**
 
-![](media/image7.png)
+![](../images/footer-html.png)
 
 - Class \"foter\"\
   Menjadi pembungkus untuk bagian footer. Meskipun ada tag \<footer\>,
@@ -286,7 +284,7 @@ Renald Kevin Azzaky (42430029)
 
 **Footer.css**
 
-![](media/image8.png)
+![](../images/footer-css.png)
 
 - Class .foter\
   Digunakan untuk memberikan gaya khusus pada bagian footer website.
@@ -307,7 +305,7 @@ Renald Kevin Azzaky (42430029)
 
 **Section project.html**
 
-![](media/image9.png)
+![](../images/section-project-html.png)
 
 - Class \"portfolio\" dengan id=\"Project-1\"\
   Membuat sebuah section khusus untuk menampilkan proyek. Class
@@ -340,7 +338,7 @@ Renald Kevin Azzaky (42430029)
 
 **Section project.css**
 
-![](media/image10.png)
+![](../images/section-project-css.png)
 
 - Class .portfolio\
   Mengatur seluruh section portfolio agar teks rata tengah
@@ -428,7 +426,7 @@ Renald Kevin Azzaky (42430029)
 
 **Section CV.html**
 
-![](media/image11.png)
+![](../images/section-cv-html.png)
 
 **Section: About (Tentang)**
 
@@ -512,7 +510,7 @@ Renald Kevin Azzaky (42430029)
 
 **Section CV.css**
 
-![](media/image12.png)
+![](../images/section-cv%20-ss.png)
 
 ### Selektor .section-1 (Baris 1-6)
 
@@ -565,17 +563,16 @@ Renald Kevin Azzaky (42430029)
 
 Tampilan halaman home (index.html)
 
-![](media/image13.png){width="5.8144881889763775in"
-height="3.058817804024497in"}
+![](../images/home.png)
 
 Tampilan halaman project (Project.html)
 
-![](media/image14.png){width="6.5in" height="3.415277777777778in"}
+![](../images/project.png)
 
 Tampilan halaman (CV.html)
 
-![](media/image15.png){width="6.5in" height="3.4194444444444443in"}
+![](../images/cv.png)
 
 Tampilan footer
 
-![](media/image16.png){width="6.5in" height="0.3659722222222222in"}
+![](../images/Screenshot%202025-09-26%20202636.png)
